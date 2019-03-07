@@ -16,4 +16,4 @@ For example, Virtual Box Oracle VM or Window 10
 -->
 
 #### Screenshot
-<!-- If you indlcue the screen-shot then it would be much helpful! --!>
+<!-- If you include the screen-shot then it would be much helpful! --!>
